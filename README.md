@@ -13,4 +13,4 @@ imdbFindTrailer is a Chrome extension extension that adds a 'Find Trailer' butto
   * Wrench > Tools > Extensions > check 'Developer Mode' on top right
 3. Load extension:
   * On the Extensions page select 'Load unpacked extensions...' on top left and navigate to the folder with the extension.
-4. Try out some [Examples](https://github.com/kalensk/imdb_FindTrailer-Extension/edit/master/README.md#introduction).
+4. Try out some [Examples](https://github.com/kalensk/imdb_FindTrailer-Extension/blob/master/README.md#introduction).
