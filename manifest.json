@@ -5,7 +5,8 @@
 	"description": "Adds 'Find Trailer' button when no trailer is present on imdb.",
 	"permissions": [ "http://www.imdb.com/title/*" ],
 	"content_scripts": [ {
-		"js": [ "jquery-1.8.1.min.js", "imdbTrailer.js" ],
-		"matches": [ "http://www.imdb.com/title/*" ]
+		"css":		[ "colorbox.css" ],
+		"js":		[ "jquery-1.8.1.min.js", "jquery.colorbox-min.js", "imdbTrailer.js" ],
+		"matches":	[ "http://www.imdb.com/title/*" ]
 		} ]
 }
